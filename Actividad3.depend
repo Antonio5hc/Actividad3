@@ -1,0 +1,9 @@
+# depslib dependency file v1.0
+1543461229 source:c:\users\villalobos\desktop\actividad de progra\actividad3\main.cpp
+	<iostream>
+	<cstdlib>
+	<math.h>
+	<fstream>
+	<sstream>
+	<conio.h>
+
